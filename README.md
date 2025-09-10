@@ -43,7 +43,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/AbhiramMalyala/weather-app.git
 
 
 Navigate to the project directory:
